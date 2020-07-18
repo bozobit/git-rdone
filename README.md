@@ -1,1 +1,1 @@
-This is my readme file
+This is where I play around and learn git and github. 
